@@ -1,0 +1,13 @@
+body {
+	color : #FFFFFF;
+	background-color : #000000;
+    font-family : Impact; 
+    font-size:  22px;
+}
+h1 {
+	font-family: Impact;
+}
+a:link	{	color: #FFFFFF		}
+a:visited	{	color: #FFFFFF		}
+a:hover	{	color: #FFFF00		}
+a:active	{	color: #FFFFFF		}
